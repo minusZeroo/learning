@@ -191,6 +191,9 @@ print(len(lst))
 val1 = 16
 val2 = val1 << 2
 
+val1 = 16
+val2 = val1 << 2
+
 print(val2)
 
 
